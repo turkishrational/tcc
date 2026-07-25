@@ -1,4 +1,4 @@
-This is the repository for the Tiny C Compiler ported to the TRDOS 386 operating system.
+### This is the repository for the Tiny C Compiler ported to the TRDOS 386 operating system.
 
 Project name: Porting the Tiny C Compiler (TCC)—originally developed by Fabrice Bellard—to the TRDOS 386 (and 386 DOS) operating system.
 
@@ -7,10 +7,12 @@ TCC version ported/being ported: 0.9.18–0.9.27
 Developer: Erdoğan Tan (with the assistance of Google AI)
 (The code required for the port was prepared and refined by Google AI based on Erdoğan Tan's TRDOS 386 kernel, methods, and modification specifications.)
 
+```
 Host: Windows 7/11 (C:\TDM-GCC-32\tinycc)
 Compiler: TDM-GCC-32, mingw32 (gcc)
 Target: TRDOS 386 (32-bit) Flat Binary File, TCC.PRG
 Test Environment: QEMU (Windows 7/11)
+```
 
 FEATURES:
     * TCC.PRG working directory: Any (location where TCC.PRG is situated)
