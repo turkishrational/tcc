@@ -16,7 +16,8 @@ FEATURES:
     * TCC.PRG working directory: Any (location where TCC.PRG is situated)
     * Library directory: ./lib (under the TCC.PRG working directory)
     * Include directory: ./include (under the TCC.PRG working directory)
-    * Input file formats: TCC 0.9.27-compatible C ('.c'), assembly files with GAS syntax ('.s'), and ELF object files.      * Output file formats: TRDOS 386 (386 DOS) Flat Binary files (with .PRG extension) and ELF32 object files (via the -c option).
+    * Input file formats: TCC 0.9.27-compatible C ('.c'), assembly files with GAS syntax ('.s'), and ELF object files. 
+    * Output file formats: TRDOS 386 (386 DOS) Flat Binary files (with .PRG extension) and ELF32 object files (via the -c option).
     * Startup code that calls the C code (main function): CRT0 (crt0.o).
     * Location of crt0.o: ./lib
     * Default library file: libc.a (in the lib directory).
@@ -32,3 +33,4 @@ TCC.PRG 0.9.18 (While the ported version is TCC 0.9.18, it is partially compatib
 Note: The process of upgrading TCC.PRG to TCC version 0.9.27 is ongoing (as of July 25, 2026). 
 
 Erdogan Tan - July 25, 2026
+
