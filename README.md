@@ -1,6 +1,6 @@
 ## This is the repository for the Tiny C Compiler ported to the TRDOS 386 operating system.
 
-Project name: Porting the Tiny C Compiler (TCC)—originally developed by Fabrice Bellard—to the TRDOS 386 (and 386 DOS) operating system.
+Project description: Porting the Tiny C Compiler (TCC)—originally developed by Fabrice Bellard—to the TRDOS 386 (and 386 DOS) operating system.
 
 **TCC version ported/being ported: 0.9.18–0.9.27**
 
