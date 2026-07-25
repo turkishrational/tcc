@@ -2,7 +2,7 @@
 
 Project name: Porting the Tiny C Compiler (TCC)—originally developed by Fabrice Bellard—to the TRDOS 386 (and 386 DOS) operating system.
 
-TCC version ported/being ported: 0.9.18–0.9.27
+** TCC version ported/being ported: 0.9.18–0.9.27 **
 
 Developer: Erdoğan Tan (with the assistance of Google AI)
 (The code required for the port was prepared and refined by Google AI based on Erdoğan Tan's TRDOS 386 kernel, methods, and modification specifications.)
