@@ -32,7 +32,7 @@ The files prepared as libraries and object files for TCC.PRG (default) are colle
 
 TCC.PRG 0.9.18 (While the ported version is TCC 0.9.18, it is partially compatible with 0.9.27; for instance, the ELF32 object format is based on 0.9.27).
 
-- ![#f03c15]Note: The process of upgrading TCC.PRG to TCC version 0.9.27 is ongoing (as of July 25, 2026). 
+`#f03c15` Note: The process of upgrading TCC.PRG to TCC version 0.9.27 is ongoing (as of July 25, 2026). `#f03c15`
 
 _Erdogan Tan - July 25, 2026_
 
